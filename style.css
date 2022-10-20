@@ -1,0 +1,17 @@
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    font-size: 50px;
+    color: blue;
+}
+li{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: firebrick;
+}
+
+h2{
+    color:aqua;
+}
